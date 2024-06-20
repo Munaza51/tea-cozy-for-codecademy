@@ -9,11 +9,6 @@ body {
     font-size: 22px;
     color: seashell;
     background-color: #000;
-    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
 }
 
 body {
@@ -21,6 +16,11 @@ body {
     text-align: center;
     margin: 0;
     padding: 0;
+     background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 
