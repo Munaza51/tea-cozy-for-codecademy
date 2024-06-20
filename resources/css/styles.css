@@ -60,7 +60,7 @@ main {
 
 #mission {
     border-radius: 5px;
-    background-image: url('../images/img-mission-background.webp');
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 1200px;
@@ -117,7 +117,7 @@ main {
 /* Locations */
 
 #locations {
-    background-image: url('../images/img-locations-background.webp');
+    background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
